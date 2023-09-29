@@ -1,0 +1,15 @@
+*.vsidx
+*.ncrunchsolution
+*.user
+src/ajf.one/.vs/ajf.one/FileContentIndex/read.lock
+src/ajf.one/.vs/ajf.one/v17/.suo
+*.json
+*.props
+*.targets
+src/ajf.one/Products/obj/Debug/net7.0/nCrunchTemp_6f333b10-d28d-44af-b2f6-f9b879946f1b.assets.cache
+src/ajf.one/Products/obj/Debug/net7.0/nCrunchTemp_6f333b10-d28d-44af-b2f6-f9b879946f1b.GlobalUsings.g.cs
+*.cache
+*.editorconfig
+.g.cs
+src/ajf.one/Tests/obj/
+src/ajf.one/Products/obj/
